@@ -1,0 +1,14 @@
+3cf37ec735ca772c14824c7b50020634 *DESCRIPTION
+bf58123471975a4819c1491383d1dfe7 *NAMESPACE
+47b11845068e9785d34e7b914a954208 *R/manhattan.heatmap.v1.R
+52fb9af50a08f8c1263ce7d1994dc41a *build/partial.rdb
+43f61c4409c54098ae52b7c464afcdb2 *inst/extdata/56cad.add.160614.variants.txt
+e0cb40b1aa7c47818dc43402d6c822a9 *inst/extdata/cad.add.160614_manhformat.txt
+48c6c7ab2b911c1125b533fd6ac82cbc *inst/extdata/config.txt
+138d8535694d4f51efbf969b83000083 *man/manhplot-package.Rd
+dca6eb64809afd68b29d018425dcdc9f *man/manhplusplot.Rd
+a19a918aa7d3c9b83cfbdafc8ed5cab0 *tests/testthat.R
+990776e8f367e98c7d0f2665bdf0906a *tests/testthat/5cad.add.160614.variants_chr1.txt
+7eb7fc9dccceaa2b3d40d42ea8eb7ad3 *tests/testthat/cad.add.160614_manhformat_chr1.txt
+48c6c7ab2b911c1125b533fd6ac82cbc *tests/testthat/config.txt
+601000d6ece4658e9c513963311b10c6 *tests/testthat/testmanhplusplot.R
